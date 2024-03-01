@@ -1,4 +1,4 @@
-<h2 align="center">Hi there. I’m a Fullstack Developer<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
+<h1 align="center">Hi there. I’m a Fullstack Developer⚡</h1>
 <h3 align="center"></h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
