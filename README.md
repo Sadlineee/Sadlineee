@@ -1,5 +1,7 @@
 <h2 align="center">Hi there. I’m a Fullstack Developer⚡</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+.)](https://git.io/typing-svg)
+
 <h3>Languages:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
