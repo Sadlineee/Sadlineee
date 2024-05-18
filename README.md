@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dosis&weight=500&size=35&pause=1000&color=2CF700&center=true&vCenter=true&random=false&height=40&lines=Hello+World!;I'm+a+Full-stack+Developer+)](https://git.io/typing-svg)
