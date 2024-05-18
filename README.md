@@ -21,6 +21,6 @@
 
 <hr />
 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadlineee&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sadlineee&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlineee&theme=dark) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadlineee&show_icons=true&theme=dark)
 
 </div>
