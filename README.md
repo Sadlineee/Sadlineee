@@ -21,6 +21,8 @@
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlineee&theme=dark) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadlineee&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlineee&theme=dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadlineee&show_icons=true&theme=dark)
 
 </div>
