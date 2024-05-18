@@ -21,8 +21,8 @@
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlineee&theme=dark&hide_border=true&card_width=800px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlineee&theme=dark&card_width=800px)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadlineee&show_icons=true&theme=dark&hide_border=true&card_width=800px)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadlineee&show_icons=true&theme=dark&card_width=800px)
 
 </div>
